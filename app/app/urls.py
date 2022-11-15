@@ -18,4 +18,8 @@ from django.urls import path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+<<<<<<< HEAD
 ]
+=======
+]
+>>>>>>> 4b571ee2dac28e175e48f9958afe572e318e0f91
